@@ -1,4 +1,4 @@
-# Stereo_Matching_and_DLT
+# Ex4 - Stereo Matching and DLT
 
-###### Ariel University, Israel || Semester B 2021
+###### Ariel University, Israel || Semester B, 2021
 
